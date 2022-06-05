@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DamirNazirov
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning react js + Redux.
-- 💞️ I'm interested in working in front-end development or internship.
+- 👀 I’m interested in frontend development
 - 📫 How to reach me: tel: +7-9999-109-097, email: damirin500@gmail.com
 
 <!---
